@@ -1,0 +1,18 @@
+.about-container {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .about-container h1 {
+    font-size: 28px;
+  }
+  
+  .about-container h2 {
+    margin-top: 40px;
+    font-size: 24px;
+  }
+  
+  .about-container p {
+    font-size: 18px;
+  }
+  

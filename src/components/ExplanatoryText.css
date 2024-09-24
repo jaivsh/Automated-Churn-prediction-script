@@ -1,0 +1,16 @@
+.explanatory-text {
+    margin-top: 30px;
+    text-align: left;
+    padding: 0 30px;
+  }
+  
+  .explanatory-text h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  .explanatory-text p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
